@@ -1,13 +1,11 @@
 package main
-
 import(
-	
-	"github.com/giridhariradhaa/gomodule/defdecvar"
-	"github.com/giridhariradhaa/gomodule/helloworld"
+	"github.com/giridhariradhaa/gomodule1/Myntra"
+	"github.com/giridhariradhaa/gomodule1/variable"
 )
-
 func main(){
-	// here i imported two packages as a part of practice
-	defdecvar.Defdecvar()
-	hello.Helloall()
+	myntra.Myntrasale()
+	variable.Variable()
+	variable.Secondmethod()
+	variable.Thirdmethod()
 }
