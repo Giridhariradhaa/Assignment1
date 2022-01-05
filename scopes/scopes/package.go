@@ -1,19 +1,19 @@
 package scopes
 import 
 	"fmt"
+//Package function
 
+	
+	var y string = "Trine University" //This is package level variable
 
-	var a int
-	a = 10
+	c:= true //This is a package level variable
+	var GlobalVar int = 4 // This is a global level variable
 
-	var y string = "Trine University"
-
-	c:= true
-
-	var x int = 2
-var y int = 4
 
 func Packagescope() {
+
+	var a int   //This is a local/block/function level variable
+	a = 10
 
 	fmt.Println("A's value is", a)
 
@@ -30,7 +30,11 @@ func Packagescope() {
 
 func Packageexample(){
 
+	var x int = 2
+	
 
 fmt.Println("x is", x)
-fmt.Println("y is", y)
+
  }
+
+ //

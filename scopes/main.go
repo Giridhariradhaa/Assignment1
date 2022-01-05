@@ -9,4 +9,6 @@ func main(){
 	fmt.Println()
 	scopes.Packagescope()
 	scopes.Packageexample()
+	fmt.Println(scopes.GlobalVar)
 }
+
