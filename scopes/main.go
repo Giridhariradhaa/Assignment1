@@ -7,6 +7,6 @@ import (
 
 func main(){
 	fmt.Println()
-	scopes.Funcscope()
-	scopes.Funcexample()
+	scopes.Packagescope()
+	scopes.Packageexample()
 }
