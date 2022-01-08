@@ -79,6 +79,8 @@ f = 30
 
 fmt.Println("He is", f)
 
+//This is an example for Local, Package and Global level scopes..
+
 
 
 }
