@@ -10,7 +10,7 @@ func main(){
 	scopes.Packageexample()
 	fmt.Println(scopes.GlobalVar)
 	scopes.Datatypesexample()
-	
+	scopes.Examplepkg1()
 
 }
 
