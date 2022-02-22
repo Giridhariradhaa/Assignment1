@@ -14,3 +14,13 @@ Then to convert the code into human readble language, we will use some commands 
 
 When the computer understands the instructions we have given, it will convert the go file to binary file (This file consists of series of 1's and 0's and it's the only language understandably by all the computers in the world) with the help of go compiler, and send it to the CPU to sort the information and send it back to the operating system to display the data in human readable language on the screen of the computer.
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
